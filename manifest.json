@@ -1,0 +1,31 @@
+{
+    "name": "El Muñeco Cibernetico",
+    "short_name": "El Muñeco Cibernetico",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#4097ed",
+    "theme_color": "#4097ed",
+    "description": "Escucha a tu Locutor favorito en cualquier lugar.",
+    "icons": [
+        {
+            "src": "imagenes/app.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "imagenes/app.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "imagenes/app.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "imagenes/app.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ]
+}
